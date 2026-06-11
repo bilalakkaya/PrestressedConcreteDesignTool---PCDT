@@ -62,8 +62,11 @@ python main_design.py
 
 ### ACI 318 Stress Limits
 The tool enforces the following stress limits during the iteration:
-* **Transfer Stage:** $f_{ci} = -0.60 f'_{ci}$ ve $f_{ti} = 3\sqrt{f'_{ci}}$
-* **Service Stage:** $f_{cs} = -0.45 f'_{c}$ ve $f_{ts} = 6\sqrt{f'_{c}}$
+
+| Stage | Compressive Limit | Tensile Limit |
+|-------|-------------------|---------------|
+| Transfer | $f_{ci} = -0.60 f'_{ci}$ | $f_{ti} = 3\sqrt{f'_{ci}}$ |
+| Service  | $f_{cs} = -0.45 f'_{c}$  | $f_{ts} = 6\sqrt{f'_{c}}$  |
 
 ### Prestress Loss Calculation
 Detailed losses are calculated using AASHTO/ACI approximations:
