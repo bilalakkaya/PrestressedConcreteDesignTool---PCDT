@@ -78,7 +78,7 @@ Where:
 Unlike simplified models that assume a fixed $y_{bs}$, PCDT computes the centroid based on a physical grid. The algorithm checks the available width at each row (accounting for 2" cover) to determine how many cables can fit in the bottom flange vs. the web.
 
 ## License
-This software was developed for academic and professional engineering use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Developed for academic and professional engineering use.
 
 ## Author
 **Mustafa Bilal Akkaya**
