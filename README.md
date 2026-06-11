@@ -17,7 +17,7 @@ This is a tool for designing prestressed concrete beams in accordance with ACI 3
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/prestressed-concrete-design.git
+   git clone https://github.com/bilalakkaya/PrestressedConcreteDesignTool---PCDT.git
    ```
 2. Install dependencies:
    ```bash
