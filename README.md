@@ -1,4 +1,4 @@
-# Prestressed Concrete Design Tools (PCDT Pro)
+# PC Girder Design Tool
 
 > [!WARNING]  
 > **DISCLAIMER:** This software is a prototype developed for **educational and preliminary design purposes only**. The calculation results have not been independently verified or certified. **Do not use this tool for final structural design, engineering projects, or construction** without thorough verification by a licensed professional engineer and comparison with established commercial software. Use of this tool is at your own risk.
