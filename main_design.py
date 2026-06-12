@@ -13,6 +13,9 @@ def run_pro_design():
     print("# +===============================================================================+")
     print("# |             PCDT Pro - Prestressed Concrete Design Tool                       |")
     print("# |   Designed in accordance with ACI 318 and AASHTO standards                    |")
+    print("# |                                                                               |")
+    print("# |   [!] WARNING: PROTOTYPE ONLY - RESULTS NOT INDEPENDENTLY VERIFIED            |")
+    print("# |   FOR EDUCATIONAL AND PRELIMINARY DESIGN PURPOSES ONLY                       |")
     print("# +===============================================================================+")
 
     try:
